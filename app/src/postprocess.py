@@ -96,17 +96,27 @@ common_map = {
     "v": "volts",
     "m": "metre",
     "lbs": "pounds",
+    "ft": "feet",
+    "ml": "millilitre",
+    "hz": "hertz",
+    "pa": "pascal",
 }
 
 
 def postprocess(val: str):
     val = val.strip()
     val = val.split("/")[0].strip()
+    val = val.split("(")[0].strip()
 
     val = re.sub(r"(^\d*\.*\d*)(\w+)$", lambda s: s[1] + " " + s[2], val)
     val = re.sub(
-        f"(.*)\\s(cm|in|g|gm|kg|oz|mm|w|v|m|lbs)$",
+        f"(.*)\\s(cm|in|gm|kg|oz|mm|ml|lbs|ft|hz|pa|g|w|v|m)$",
         lambda s: s[1] + " " + common_map[s[2]],
+        val,
+    )
+    val = re.sub(
+        f'^"(\d*\.*\d*)"""$',
+        lambda s: s[1] + " inches",
         val,
     )
     val = "" if ("unanswerable" in val or "VLM" in val) else val
