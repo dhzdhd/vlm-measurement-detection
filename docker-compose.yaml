@@ -2,13 +2,7 @@ services:
   mlflow:
     container_name: mlflow
     image: bitnami/mlflow:latest
-    entrypoint:
-      ["sh", "-c", "pip install -r requirements.txt && python __main__.py"]
-    volumes:
-      - ./app:/app
-      - site-packages:/opt/bitnami/python/lib/python3.12/site-packages:ro
+    entrypoint: "mlflow"
+    command: "ui"
     ports:
       - 5000:5000
-
-volumes:
-  site-packages:

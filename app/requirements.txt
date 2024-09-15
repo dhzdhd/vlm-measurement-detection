@@ -3,3 +3,6 @@
 transformers==4.44.2
 tqdm==4.66.5
 torch==2.4.1
+protobuf
+accelerate
+sentencepiece
