@@ -115,7 +115,7 @@ def postprocess(val: str):
         val,
     )
     val = re.sub(
-        f'^"(\d*\.*\d*)"""$',
+        r'^"(\d*\.*\d*)"""$',
         lambda s: s[1] + " inches",
         val,
     )
@@ -139,7 +139,7 @@ df["prediction"] = df.apply(lambda row: fill_missing(row), axis=1)
 df["prediction"] = df["prediction"].apply(lambda val: postprocess(val))
 print(df.head())
 
-df.to_csv("processed.csv", index=False)
+df.to_csv("app/result/processed.csv", index=False)
 
 # Sanity check
 # df.apply(lambda x: parse_string(x["prediction"]), axis=1)

@@ -42,7 +42,7 @@ index,prediction
 25040,1.5 millimetre
 25041,710 gram
 25042,12 centimetre
-25043,8 ft
+25043,8 feet
 25044,17 centimetre
 25045,17 centimetre
 25046,600 watt
@@ -198,7 +198,7 @@ index,prediction
 25196,"2,5 centimetre"
 25197,7.5 centimetre
 25198,37 centimetre
-25199,30kg (66lbs)
+25199,30 kilogram
 25200,22 millimetre
 25201,22 millimetre
 25202,22 millimetre
@@ -226,7 +226,7 @@ index,prediction
 25224,41.5 centimetre
 25225,
 25226,150 millimetre
-25227,250 ml
+25227,250 millilitre
 25228,0.8 inch
 25229,0.8 inch
 25230,120v 60hz
@@ -278,7 +278,7 @@ index,prediction
 25276,16.5 centimetre
 25277,15 centimetre
 25278,21 centimetre
-25279,16000 pa
+25279,16000 pascal
 25280,
 25281,
 25282,6.8 centimetre
@@ -292,7 +292,7 @@ index,prediction
 25290,11.5 centimetre
 25291,30 centimetre
 25292,2.4 inch
-25293,120 ml
+25293,120 millilitre
 25294,
 25295,
 25296,120 volts
@@ -390,7 +390,7 @@ index,prediction
 25388,
 25389,17 centimetre
 25390,340 gram
-25391,"3"" (7.6cm)"
+25391,"3"""
 25392,30 centimetre
 25393,75 centimetre
 25394,4.5 centimetre
@@ -517,8 +517,8 @@ index,prediction
 25515,50 centimetre
 25516,9 centimetre
 25517,
-25518,3.28 ft
-25519,3.28 ft
+25518,3.28 feet
+25519,3.28 feet
 25520,34 centimetre
 25521,13 centimetre
 25522,11.4 centimetre
@@ -655,7 +655,7 @@ index,prediction
 25653,3.54 inch
 25654,18 centimetre
 25655,3 volts
-25656,20 ml
+25656,20 millilitre
 25657,280 millimetre
 25658,6.25 centimetre
 25659,15 centimetre
@@ -682,7 +682,7 @@ index,prediction
 25680,
 25681,12.5 centimetre
 25682,4.9 inch
-25683,7.84 ft
+25683,7.84 feet
 25684,3.28 gram
 25685,4.3 centimetre
 25686,
@@ -691,8 +691,8 @@ index,prediction
 25689,1.16 centimetre
 25690,60 watts
 25691,60 volts
-25692,"3.5"" (8.91 cm)"
-25693,"3.5"" (8.91 cm)"
+25692,"3.5"""
+25693,"3.5"""
 25694,18.5 centimetre
 25695,34.55 centimetre
 25696,3 inch
@@ -707,7 +707,7 @@ index,prediction
 25705,6.3 inch
 25706,6.69 inch
 25707,6.3 inch
-25708,3.3 ft
+25708,3.3 feet
 25709,"30.70"""
 25710,53 millimetre
 25711,53 millimetre
@@ -729,7 +729,7 @@ index,prediction
 25727,
 25728,9 centimetre
 25729,9 centimetre
-25730,1.18 in (3cm)
+25730,1.18 inch
 25731,2.83 inch
 25732,21.3 watt
 25733,20 ounce
@@ -747,7 +747,7 @@ index,prediction
 25745,
 25746,20 centimetre
 25747,70.0 millimetre
-25748,"115.0mm (4.52"")"
+25748,115.0 millimetre
 25749,81 volt
 25750,12 volts
 25751,1.5 watts
@@ -787,7 +787,7 @@ index,prediction
 25785,14.25 gram
 25786,210 centimetre
 25787,180 centimetre
-25788,3 ft
+25788,3 feet
 25789,"19"""
 25790,203 centimetre
 25791,203 centimetre
@@ -919,7 +919,7 @@ index,prediction
 25917,8 inch
 25918,
 25919,120 centimetre
-25920,"12"" (30.5cm)"
+25920,"12"""
 25921,12.5 centimetre
 25922,12.5 centimetre
 25923,2.16 inch
@@ -967,7 +967,7 @@ index,prediction
 25965,37 centimetre
 25966,14 centimetre
 25967,11.7 centimetre
-25968,6.7inch(170mm)
+25968,6.7 inch
 25969,10 centimetre
 25970,12cm 10cm
 25971,27.2 centimetre
@@ -1061,8 +1061,8 @@ index,prediction
 26059,42 centimetre
 26060,42 centimetre
 26061,3.75 inch
-26062,2.95inch(7.5cm)
-26063,3.75inch(9.5cm)
+26062,2.95 inch
+26063,3.75 inch
 26064,2.8 inch
 26065,80 centimetre
 26066,40 centimetre
@@ -1080,7 +1080,7 @@ index,prediction
 26078,14.7 inch
 26079,72 inch
 26080,1 inch
-26081,100 ml
+26081,100 millilitre
 26082,
 26083,42.5 inches
 26084,0 gram
@@ -1102,7 +1102,7 @@ index,prediction
 26100,22.1 gram
 26101,42 centimetre
 26102,70 centimetre
-26103,23 kg (51 lbs)
+26103,23 kilogram
 26104,2.3 kilogram
 26105,2.3 kilogram
 26106,14 centimetre
@@ -1211,7 +1211,7 @@ index,prediction
 26209,31.5 centimetre
 26210,15 gram
 26211,65 millimetre
-26212,"40"" (102 cm)"
+26212,"40"""
 26213,
 26214,
 26215,0.32 pounds
@@ -1225,13 +1225,13 @@ index,prediction
 26223,54 millimetre
 26224,2.3 lb
 26225,
-26226,"1.8"" (4.6cm)"
+26226,"1.8"""
 26227,1.65 inch
 26228,55 centimetre
 26229,100 centimetre
 26230,15 centimetre
 26231,18 centimetre
-26232,"9.4"" (24cm)"
+26232,"9.4"""
 26233,24 centimetre
 26234,11.41 inch
 26235,6.8 centimetre
@@ -1277,7 +1277,7 @@ index,prediction
 26275,5.3 centimetre
 26276,1.5 inch
 26277,"4.7"""
-26278,"9.3"" (23.5cm)"
+26278,"9.3"""
 26279,"4.7"""
 26280,120.0 volts
 26281,120.0 volts
@@ -1396,7 +1396,7 @@ index,prediction
 26394,3.2 inch
 26395,3.2 inch
 26396,3.2 inch
-26397,"115 cm(45.2"" )"
+26397,115 centimetre
 26398,3.2 inch
 26399,0.7 inch
 26400,7 centimetre
@@ -1412,7 +1412,7 @@ index,prediction
 26410,"3.2"""
 26411,8.38 ounce
 26412,1.8 centimetre
-26413,"57"" (145cm)"
+26413,"57"""
 26414,"30"""
 26415,102 centimetre
 26416,33.5 centimetre
@@ -1484,7 +1484,7 @@ index,prediction
 26482,18.11 centimetre
 26483,18.11 centimetre
 26484,39 centimetre
-26485,12mm (1
+26485,12 millimetre
 26486,2.48 inch
 26487,2.48 inch
 26488,15 centimetre
@@ -1525,7 +1525,7 @@ index,prediction
 26523,36.5 centimetre
 26524,35 centimetre
 26525,35 gram
-26526,"15.7"" (40cm)"
+26526,"15.7"""
 26527,3.93 inch
 26528,3.54 inches
 26529,1.37 inches
@@ -1601,11 +1601,11 @@ index,prediction
 26599,17.00 centimetre
 26600,8.11 inch
 26601,68 centimetre
-26602,"68 cm(26.8"")"
+26602,68 centimetre
 26603,8.5 centimetre
 26604,8.5 centimetre
 26605,120 centimetre
-26606,3.75 kg (8.5 lbs)
+26606,3.75 kilogram
 26607,7.5 centimetre
 26608,20.8 centimetre
 26609,3.6 ounce
@@ -1696,8 +1696,8 @@ index,prediction
 26694,2.2 inch
 26695,6.2 centimetre
 26696,6.2 centimetre
-26697,"0.84"" (21mm)"
-26698,"0.94"" (24mm)"
+26697,"0.84"""
+26698,"0.94"""
 26699,5.12 inch
 26700,
 26701,6.3 inch
@@ -1735,7 +1735,7 @@ index,prediction
 26733,25 millimetre
 26734,25 centimetre
 26735,25 cm 35 centimetre
-26736,"3.39"" (85mm)"
+26736,"3.39"""
 26737,330 pounds
 26738,"5.7"""
 26739, 1
@@ -1838,7 +1838,7 @@ index,prediction
 26836,75 centimetre
 26837,265 millimetre
 26838,70 millimetre
-26839,"76 cm(30.3"")"
+26839,76 centimetre
 26840,100-110 centimetre
 26841,3.14 centimetre
 26842,3.14 watt
@@ -1914,7 +1914,7 @@ index,prediction
 26912,15 centimetre
 26913,7.9 gram
 26914,30.13 centimetre
-26915,5.9in (150mm)
+26915,5.9 inch
 26916,5.9 inch
 26917,33 centimetre
 26918,59 pounds
@@ -1998,7 +1998,7 @@ index,prediction
 26996,1.5 inch
 26997,18 inch
 26998,7.7 inch
-26999,83.8 oz (1
+26999,83.8 ounce
 27000,2.7 centimetre
 27001,14.5 centimetre
 27002,8.86 gram
@@ -2018,7 +2018,7 @@ index,prediction
 27016,0.9 inch
 27017,0.9 inch
 27018,15.6 centimetre
-27019,7.2 ft
+27019,7.2 feet
 27020,24 ounce
 27021,11.20 centimetre
 27022,8.5 centimetre
@@ -2076,7 +2076,7 @@ index,prediction
 27074,"11.9"""
 27075,"11.9"""
 27076,
-27077,6.5 ft
+27077,6.5 feet
 27078,6.5 centimetre
 27079,4.33 centimetre
 27080,33.6 centimetre
@@ -2102,7 +2102,7 @@ index,prediction
 27100,3.1 inch
 27101,3.1 inch
 27102,0.9 inch
-27103,"70 cm(27.6"")"
+27103,70 centimetre
 27104,205 millimetre
 27105,205 millimetre
 27106,205 millimetre
@@ -2125,8 +2125,8 @@ index,prediction
 27123,"4.5"" high"
 27124,"4.5"""
 27125,350 millimetre
-27126,"63 cm(25.6"")"
-27127,"65 cm (25.6"")"
+27126,63 centimetre
+27127,65 centimetre
 27128,11.8 inch
 27129,7.9 inch
 27130,34 centimetre
@@ -2138,7 +2138,7 @@ index,prediction
 27136,74.8 inch
 27137,74.8 inch
 27138,74.8 inch
-27139,6cm (2.3inch)
+27139,6 centimetre
 27140,"10,5 centimetre"
 27141,"2"""
 27142,4.73 inch
@@ -2160,7 +2160,7 @@ index,prediction
 27158,8.7 centimetre
 27159,1.97 inch
 27160,69.5 centimetre
-27161,"80.5 cm(31.7"")"
+27161,80.5 centimetre
 27162,120 millimetre
 27163,32 pounds
 27164,350 watts
@@ -2248,7 +2248,7 @@ index,prediction
 27246,21 centimetre
 27247,21 centimetre
 27248,
-27249,13.5cm (4.5inch)
+27249,13.5 centimetre
 27250,90 centimetre
 27251,19 centimetre
 27252,9.1 inch
@@ -2262,24 +2262,24 @@ index,prediction
 27260,1500 watts
 27261,1500 watts
 27262,9.3 centimetre
-27263,2.6 inches (w)
+27263,2.6 inches
 27264,about 9.9cm
 27265,1.6 inch
 27266,37.8 centimetre
 27267,31 centimetre
 27268,36.5 centimetre
 27269,"5ft, 7ft"
-27270,"32 cm (12"")"
+27270,32 centimetre
 27271,40 centimetre
 27272,40 centimetre
-27273,"72 cm(28.3"")"
-27274,27.6in (70cm)
+27273,72 centimetre
+27274,27.6 inch
 27275,
 27276,132 centimetre
 27277,1.18 inch
 27278,1.18 inch
 27279,50 centimetre
-27280,"600mm(23.62"")"
+27280,600 millimetre
 27281,600 millimetre
 27282,278 millimetre
 27283,10 centimetre
@@ -2347,7 +2347,7 @@ index,prediction
 27345,40 centimetre
 27346,40 centimetre
 27347,15 centimetre
-27348,250 ml
+27348,250 millilitre
 27349,
 27350,32 centimetre
 27351,32 centimetre
@@ -2443,9 +2443,9 @@ index,prediction
 27441,2.2inch 5.5cm
 27442,43.3 inch
 27443,12.58 inch
-27444,"3.20"" (8.1 cm)"
-27445,"7.25"" (18.42 cm)"
-27446,"3.25"" (8.1 cm)"
+27444,"3.20"""
+27445,"7.25"""
+27446,"3.25"""
 27447,100 centimetre
 27448,100 centimetre
 27449,220 pounds
@@ -2477,8 +2477,8 @@ index,prediction
 27475,2.2 centimetre
 27476,2.2 centimetre
 27477,160 centimetre
-27478,0.9inch (23mm)
-27479,0.9inch (23mm)
+27478,0.9 inch
+27479,0.9 inch
 27480,95 millimetre
 27481,35 millimetre
 27482,46 centimetre
@@ -2492,7 +2492,7 @@ index,prediction
 27490,2.42 pounds
 27491,1.5 metre
 27492,2 metre
-27493,2.7cm (1.06inch)
+27493,2.7 centimetre
 27494,12 ounce
 27495,14 centimetre
 27496,34 centimetre
@@ -2550,7 +2550,7 @@ index,prediction
 27548,39.5 centimetre
 27549,25 millimetre
 27550,25 millimetre
-27551,30cm (1 foot)
+27551,30 centimetre
 27552,20 centimetre
 27553,30 centimetre
 27554,4 centimetre
@@ -2716,7 +2716,7 @@ index,prediction
 27714,100 centimetre
 27715,"23.4"""
 27716,
-27717,"l:5"" (13cm)"
+27717,"l:5"""
 27718,44 centimetre
 27719,
 27720,17.5 inch
@@ -2773,14 +2773,14 @@ index,prediction
 27771,"16"""
 27772,20 centimetre
 27773,120 gram
-27774,25cm(9.8inch)
+27774,25 centimetre
 27775,25 centimetre
 27776,6.5 centimetre
 27777,50.5 centimetre
 27778,54.5 centimetre
 27779,9.2 centimetre
 27780,11.02 inch
-27781,1.57in (4cm)
+27781,1.57 inch
 27782,14 centimetre
 27783,2.5 kilogram
 27784,18.37 centimetre
@@ -2948,8 +2948,8 @@ index,prediction
 27946,41 centimetre
 27947,69.1 centimetre
 27948,35.5 inches
-27949,1.07 inch (5 cm)
-27950,1.18 inch (3 cm)
+27949,1.07 inch
+27950,1.18 inch
 27951,3.9 centimetre
 27952,1.5 centimetre
 27953,4.8 inch
@@ -2974,8 +2974,8 @@ index,prediction
 27972,8.5 centimetre
 27973,3.1 inch
 27974,10 centimetre
-27975,10 ft
-27976,10 ft
+27975,10 feet
+27976,10 feet
 27977,30 millimetre
 27978,175 millimetre
 27979,25 centimetre
@@ -3106,11 +3106,11 @@ index,prediction
 28104,65 centimetre
 28105,3.2 inch
 28106,8 centimetre
-28107,10 ft
-28108,2.1 ft
+28107,10 feet
+28108,2.1 feet
 28109,15 centimetre
 28110,2.6cm 3cm
-28111,250 ml
+28111,250 millilitre
 28112,15.7 inch
 28113,30 centimetre
 28114,1.8 inch
@@ -3172,7 +3172,7 @@ index,prediction
 28170,16 x14cm
 28171,3.93 inch
 28172,"85"""
-28173,"31.5 cm (12.4"" )"
+28173,31.5 centimetre
 28174,5.11 volt
 28175,9.0 inch
 28176,7.0 inch
@@ -3212,7 +3212,7 @@ index,prediction
 28210,2.5 centimetre
 28211,2.83 centimetre
 28212,2 inch
-28213,236 ml
+28213,236 millilitre
 28214,15 centimetre
 28215,4.7 inch
 28216,4.7 inch
@@ -3229,7 +3229,7 @@ index,prediction
 28227,5 millimetre
 28228,92 millimetre
 28229,14 ounce
-28230,12.20 inch (310mm)
+28230,12.20 inch
 28231,6 centimetre
 28232,30 centimetre
 28233,30 centimetre
@@ -3421,7 +3421,7 @@ index,prediction
 28419,1.97 centimetre
 28420,50 centimetre
 28421,"54"""
-28422,"25cm(9.8"")"
+28422,25 centimetre
 28423,
 28424,11.8 inch
 28425,3.6 centimetre
@@ -3494,7 +3494,7 @@ index,prediction
 28492,12 volts
 28493,73 centimetre
 28494, kilogram
-28495,3 ft
+28495,3 feet
 28496,3.5 centimetre
 28497,"10.6"""
 28498,
@@ -3503,12 +3503,12 @@ index,prediction
 28501,30 centimetre
 28502,1410 millimetre
 28503,5 ounce
-28504,"5.7"" (14 cm)"
+28504,"5.7"""
 28505,12.0 inch
 28506,1.3 inch
-28507,10 ft
+28507,10 feet
 28508,10 centimetre
-28509,6.5 ft
+28509,6.5 feet
 28510,3.15 centimetre
 28511,1 inch
 28512,1 inch
@@ -3570,7 +3570,7 @@ index,prediction
 28568,7.9 inch
 28569,75 centimetre
 28570,
-28571,120 hz
+28571,120 hertz
 28572,170 millimetre
 28573,3-1
 28574,3-1
@@ -3738,7 +3738,7 @@ index,prediction
 28736,17 centimetre
 28737,30 centimetre
 28738,"7.5"""
-28739,120 ml
+28739,120 millilitre
 28740,7 centimetre
 28741,3 centimetre
 28742,
@@ -3746,7 +3746,7 @@ index,prediction
 28744,6.3 inch
 28745,6.3 inch
 28746,1.5 centimetre
-28747,16 inches (40 cm)
+28747,16 inches
 28748,12 inches
 28749,16 centimetre
 28750,10 centimetre
@@ -3844,7 +3844,7 @@ index,prediction
 28842,220 gram
 28843,13.11 centimetre
 28844,200 centimetre
-28845,"68 cm(26.8"")"
+28845,68 centimetre
 28846,120 volts
 28847,0.53 kilogram
 28848,5.7 centimetre
@@ -4000,11 +4000,11 @@ index,prediction
 28998,3 metre
 28999,12 inch
 29000,173.8 centimetre
-29001,3 ft
+29001,3 feet
 29002,1 centimetre
-29003,3 ft
+29003,3 feet
 29004,14 centimetre
-29005,120 ml
+29005,120 millilitre
 29006,11.5 centimetre
 29007,5.1 inch
 29008,
@@ -4020,13 +4020,13 @@ index,prediction
 29018,18 volt
 29019,18 centimetre
 29020,100 centimetre
-29021,3.42 oz (99 g)
+29021,3.42 ounce
 29022,72 centimetre
 29023,20 centimetre
 29024,20 centimetre
 29025,20 centimetre
-29026,2.2 in (5.5cm)
-29027,2.2 in (5.5cm)
+29026,2.2 inch
+29027,2.2 inch
 29028,8 centimetre
 29029,40 millimetre
 29030,40 millimetre
@@ -4059,7 +4059,7 @@ index,prediction
 29057,"6.7"""
 29058,"10"" 6.7"""
 29059,12 fl ounce
-29060,8cm(3.1in)
+29060,8 centimetre
 29061,3.1 centimetre
 29062,8 centimetre
 29063,8 centimetre
@@ -4078,7 +4078,7 @@ index,prediction
 29076,18.5 centimetre
 29077,3 inch
 29078,3 inch
-29079,860mm(34.1in)
+29079,860 millimetre
 29080,420 millimetre
 29081,41 centimetre
 29082,72 centimetre
@@ -4120,7 +4120,7 @@ index,prediction
 29118,141 gram
 29119,1.85 centimetre
 29120,13.75 inch
-29121,100 ml
+29121,100 millilitre
 29122,280 millimetre
 29123,280 millimetre
 29124,280 millimetre
@@ -4146,8 +4146,8 @@ index,prediction
 29144,8 inch
 29145,10 inch
 29146,10 inch
-29147,"39.5 cm (15.5"")"
-29148,"39,5 cm (15.5"") 44,5 cm (17.5"")"
+29147,39.5 centimetre
+29148,"39,5 centimetre"
 29149,75 millimetre
 29150,50 centimetre
 29151,1.57 inch
@@ -4178,14 +4178,14 @@ index,prediction
 29176,245 centimetre
 29177,59 centimetre
 29178,5 centimetre
-29179,16 oz (425 g)
+29179,16 ounce
 29180,2 inch
 29181,40 centimetre
 29182,40 centimetre
 29183,1 centimetre
 29184,1 centimetre
 29185,1 centimetre
-29186,"40.5"" (108cm)"
+29186,"40.5"""
 29187,1.2 centimetre
 29188,1.2 centimetre
 29189,83 centimetre
@@ -4207,7 +4207,7 @@ index,prediction
 29205,32 ounce
 29206,"4.25"""
 29207,3.5 centimetre
-29208,8.66inch (220mm)
+29208,8.66 inch
 29209,
 29210,10 watts
 29211,19.5 centimetre
@@ -4280,7 +4280,7 @@ index,prediction
 29278,10 centimetre
 29279,36 gram
 29280,"15 lbs and under, 7 lbs and under"
-29281,12 oz (340g)
+29281,12 ounce
 29282,22 centimetre
 29283,22 centimetre
 29284,22 centimetre
@@ -4288,7 +4288,7 @@ index,prediction
 29286,1.5 centimetre
 29287,1.5 centimetre
 29288,1.5 centimetre
-29289,"40 cm(15.7"")"
+29289,40 centimetre
 29290,
 29291,6 watt
 29292,1.85 volt
@@ -4404,7 +4404,7 @@ index,prediction
 29402,500 watts
 29403,0.7 inch
 29404,"5.12"""
-29405,36.8lbs(17kg)
+29405,36.8 pounds
 29406,12.6 centimetre
 29407,1.56 inch
 29408,12.6 centimetre
@@ -4443,7 +4443,7 @@ index,prediction
 29441,8.7 inch
 29442,340 millimetre
 29443, 3
-29444,5.1cm (2.0inch)
+29444,5.1 centimetre
 29445,2.0 inch
 29446,101 centimetre
 29447,120 centimetre
@@ -4463,14 +4463,14 @@ index,prediction
 29461,12 inch
 29462,12 gram
 29463,265 pounds
-29464,26g (0.92oz)
+29464,26 gram
 29465,5.5 inch
 29466,4.9 inch
 29467,4.72 inch
 29468,2.63 inch
 29469,11.81 inch
 29470,11.81 inch
-29471,31.45 inch (800mm)
+29471,31.45 inch
 29472,485 millimetre
 29473,1.2 inch
 29474,
@@ -4486,7 +4486,7 @@ index,prediction
 29484,7.5 centimetre
 29485,11.8 inch
 29486,2.9 inch
-29487,30.48 cm (12inch)
+29487,30.48 centimetre
 29488,15 centimetre
 29489,102.5 centimetre
 29490,1.7 centimetre
@@ -4502,12 +4502,12 @@ index,prediction
 29500,49.5 inch
 29501,"21.5"""
 29502,
-29503,"7.5"" (19cm)"
+29503,"7.5"""
 29504,50 centimetre
 29505,150 millimetre
 29506,170 millimetre
 29507,"6.6"""
-29508,"24cm (9.4"")"
+29508,24 centimetre
 29509,12 volts
 29510,20 centimetre
 29511,5.0 volts
@@ -4543,13 +4543,13 @@ index,prediction
 29541,49.78 centimetre
 29542,"14"""
 29543,25-3
-29544,"210 cm (82.7"")"
+29544,210 centimetre
 29545,2.4 centimetre
 29546,4 centimetre
 29547,7 centimetre
 29548,7.79 inch
 29549,3.7 inch
-29550,6-12.5 oz (184-425 g)
+29550,6-12.5 ounce
 29551,7.87 inch
 29552,5.51 inch
 29553,2.5 centimetre
@@ -4655,11 +4655,11 @@ index,prediction
 29653,"8"""
 29654,2 centimetre
 29655,
-29656,100 ml
+29656,100 millilitre
 29657,9.5 centimetre
 29658,18 volts
 29659,18 volts
-29660,"110 cm(43.3"" )"
+29660,110 centimetre
 29661,28.5 centimetre
 29662,22 centimetre
 29663,35.02 centimetre
@@ -4689,7 +4689,7 @@ index,prediction
 29687,4 inch
 29688,0.16 inch
 29689,0.125 inch
-29690,1.7 oz (48 g)
+29690,1.7 ounce
 29691,0.13 millimetre
 29692,0.13 millimetre
 29693,9 millimetre
@@ -4788,7 +4788,7 @@ index,prediction
 29786,"6.7"""
 29787,27 millimetre
 29788,95 millimetre
-29789,"5.43"" (13.8 cm)"
+29789,"5.43"""
 29790,3.6 inch
 29791,4.84 inch
 29792,58 centimetre
@@ -5012,7 +5012,7 @@ index,prediction
 30010,"7.5"""
 30011,"2"""
 30012,7 centimetre
-30013,6ft (183cm)
+30013,6 feet
 30014,20 watts
 30015,20 watts
 30016,12.6 inch
@@ -5029,7 +5029,7 @@ index,prediction
 30027,29 lbs per unit
 30028,15 centimetre
 30029,15 centimetre
-30030,30 ml
+30030,30 millilitre
 30031,100 centimetre
 30032,2.5 inches
 30033,7.5 centimetre
@@ -5040,7 +5040,7 @@ index,prediction
 30038,16 ounce
 30039,5.9 centimetre
 30040,5.9 inch
-30041,"4.72"" (12.4cm)"
+30041,"4.72"""
 30042,"1.57"""
 30043,730 millimetre
 30044,730 millimetre
@@ -5065,11 +5065,11 @@ index,prediction
 30063,1300 watts
 30064,18 volts
 30065,23 centimetre
-30066,1.2 oz (34g)
+30066,1.2 ounce
 30067, pounds
 30068,30 centimetre
 30069,3.5 centimetre
-30070,11.3 oz (318 g)
+30070,11.3 ounce
 30071,24 volt
 30072,"14"" inch"
 30073,"14"" inch"
@@ -5108,7 +5108,7 @@ index,prediction
 30106,30 centimetre
 30107,210 millimetre
 30108,60 inch
-30109,8 ft
+30109,8 feet
 30110,1 inch
 30111,1 inch
 30112,
@@ -5119,7 +5119,7 @@ index,prediction
 30117,5 inch
 30118,63 inch
 30119,5 inch
-30120,1000 ml
+30120,1000 millilitre
 30121,24.5 centimetre
 30122,5.31 inch
 30123,2.87 inch
@@ -5134,7 +5134,7 @@ index,prediction
 30132,0.72 lb
 30133,"22"""
 30134,"22"""
-30135,"59 cm (23.2"" )"
+30135,59 centimetre
 30136,1 centimetre
 30137,330 pounds
 30138,10 centimetre
@@ -5195,8 +5195,8 @@ index,prediction
 30193,35 centimetre
 30194,2.5 centimetre
 30195,9.6 inch
-30196,10 ft
-30197,10 ft
+30196,10 feet
+30197,10 feet
 30198,14 amp
 30199,14 amp
 30200,4.05 inch
@@ -5223,7 +5223,7 @@ index,prediction
 30221,16 fl ounce
 30222,4.5 centimetre
 30223,4.5 centimetre
-30224,10 ml
+30224,10 millilitre
 30225,1.2 centimetre
 30226,
 30227,110v 1800w
@@ -5463,7 +5463,7 @@ index,prediction
 30461,3.35 inch
 30462,"4.94"""
 30463,1.95 centimetre
-30464,"96 cm(37.8"")"
+30464,96 centimetre
 30465,3 millimetre
 30466,4 inch
 30467,2.8 inches
@@ -5499,7 +5499,7 @@ index,prediction
 30497,0.63 inch
 30498,61 centimetre
 30499,110 centimetre
-30500,5g (0.176oz)
+30500,5 gram
 30501,5 centimetre
 30502,125 gram
 30503,31.5 centimetre
@@ -5528,7 +5528,7 @@ index,prediction
 30526,1000 gram
 30527,450 millimetre
 30528,1500 millimetre
-30529,14 oz (401g)
+30529,14 ounce
 30530,0.9 inch
 30531,2.48 centimetre
 30532,7.2 inch
@@ -5598,7 +5598,7 @@ index,prediction
 30596,4 ounce
 30597,8.1 centimetre
 30598,11.5 centimetre
-30599,"68 cm(26.8"")"
+30599,68 centimetre
 30600,4.8 centimetre
 30601,4.8 centimetre
 30602,25 watt
@@ -5639,8 +5639,8 @@ index,prediction
 30637,7.9 inch
 30638,3.3 inch
 30639,20 centimetre
-30640,3.14 inches (8cm)
-30641,3.84 inches (9cm)
+30640,3.14 inches
+30641,3.84 inches
 30642,
 30643,80 volts
 30644,
@@ -5723,7 +5723,7 @@ index,prediction
 30721,80 centimetre
 30722,6.3 inch
 30723,29.46 centimetre
-30724,5.2 in (13 cm)
+30724,5.2 inch
 30725,1000 gram
 30726,
 30727,
@@ -5782,7 +5782,7 @@ index,prediction
 30780,7 inch
 30781,1.65 inch
 30782,640 gb
-30783,10cm(3.94inch)
+30783,10 centimetre
 30784,55 gram
 30785,3.6 ounces
 30786,36 inch
@@ -5794,7 +5794,7 @@ index,prediction
 30792,"100,5 centimetre"
 30793,45 centimetre
 30794,"15.75"""
-30795,3 ft
+30795,3 feet
 30796,50 centimetre
 30797,50 centimetre
 30798,70 centimetre
@@ -5855,7 +5855,7 @@ index,prediction
 30853,"16"""
 30854,"18"""
 30855,56 centimetre
-30856,"110 cm(43.3"" )"
+30856,110 centimetre
 30857,16 volt
 30858,10.5 watt
 30859,70 centimetre
@@ -5866,7 +5866,7 @@ index,prediction
 30864,210 centimetre
 30865,210 centimetre
 30866,100 millimetre
-30867,2.45m (8ft)
+30867,2.45 metre
 30868,132 millimetre
 30869,132 millimetre
 30870,75 millimetre
@@ -5996,8 +5996,8 @@ index,prediction
 30994,35 centimetre
 30995,2.56 inch
 30996,2.56 inch
-30997,3 ft
-30998,3 ft
+30997,3 feet
+30998,3 feet
 30999,5 watt
 31000,52 millimetre
 31001,22 millimetre
@@ -6008,7 +6008,7 @@ index,prediction
 31006,23 inch
 31007,8.75 centimetre
 31008,10.04 inch
-31009,10.04 in (25.5cm)
+31009,10.04 inch
 31010,10 centimetre
 31011,230 millimetre
 31012,10 centimetre
@@ -6024,14 +6024,14 @@ index,prediction
 31022,7.5 centimetre
 31023,
 31024,
-31025,"185mm(7.1"")"
+31025,185 millimetre
 31026,
 31027,2.36 gram
 31028,1.88 inches
 31029,1200 centimetre
 31030,120 centimetre
 31031, 5
-31032,7.2 ft
+31032,7.2 feet
 31033,100 centimetre
 31034,8.11 gram
 31035,"19"""
@@ -6051,7 +6051,7 @@ index,prediction
 31049,6 1
 31050,
 31051,
-31052,250 ml
+31052,250 millilitre
 31053,24 centimetre
 31054,9.5 centimetre
 31055,9.5 centimetre
@@ -6115,7 +6115,7 @@ index,prediction
 31113,4.60 centimetre
 31114,170 centimetre
 31115,220 centimetre
-31116,"4"" (10cm)"
+31116,"4"""
 31117,1.38 inch
 31118,1.38 inch
 31119,3.55 inch
@@ -6178,7 +6178,7 @@ index,prediction
 31176,25 centimetre
 31177,15 millimetre
 31178,220 millimetre
-31179,100mm (3.93 in)
+31179,100 millimetre
 31180,24 centimetre
 31181,9.4 centimetre
 31182,9.4 inches
@@ -6192,7 +6192,7 @@ index,prediction
 31190,5.12 inch
 31191,5.12 inch
 31192,56 centimetre
-31193,"118 cm(65.4"" )"
+31193,118 centimetre
 31194,22 centimetre
 31195,22 centimetre
 31196,42 centimetre
@@ -6277,8 +6277,8 @@ index,prediction
 31275,
 31276,100 centimetre
 31277,11 inch
-31278,6.6 ft
-31279,6.6 ft
+31278,6.6 feet
+31279,6.6 feet
 31280,6.5 volt
 31281,6. 5
 31282,3.4 ounce
@@ -6287,8 +6287,8 @@ index,prediction
 31285,5.5 centimetre
 31286,
 31287,95 millimetre
-31288,10 ft
-31289,10ft (3m)
+31288,10 feet
+31289,10 feet
 31290,155 centimetre
 31291,"21"""
 31292,"21"" 8"""
@@ -6327,8 +6327,8 @@ index,prediction
 31325,11 centimetre
 31326,40 centimetre
 31327,79 centimetre
-31328,"2.75"" (7cm)"
-31329,"2.75"" (7cm)"
+31328,"2.75"""
+31329,"2.75"""
 31330,173 millimetre
 31331,73 millimetre
 31332,"2"""
@@ -6420,7 +6420,7 @@ index,prediction
 31418,75 centimetre
 31419,40 centimetre
 31420,1.4 inch
-31421,240 ml
+31421,240 millilitre
 31422,196 centimetre
 31423,2.55 metre
 31424,15 millimetre
@@ -6461,7 +6461,7 @@ index,prediction
 31459,86 centimetre
 31460,16 ounce
 31461,2 l
-31462, ml
+31462, millilitre
 31463,12 centimetre
 31464,6'
 31465,4.8 centimetre
@@ -6584,7 +6584,7 @@ index,prediction
 31582,6.85 inch
 31583,13.6 centimetre
 31584,75 centimetre
-31585,"75 cm(29.5"")"
+31585,75 centimetre
 31586,4.8 inch
 31587,4.8 inch
 31588,7 centimetre
@@ -6640,7 +6640,7 @@ index,prediction
 31638,23.5 millimetre
 31639,23.5 millimetre
 31640,8 fl ounce
-31641,2.04 ft
+31641,2.04 feet
 31642,"68"""
 31643,
 31644,12 volts
@@ -6716,7 +6716,7 @@ index,prediction
 31714,6.3 inch
 31715,6.3 inch
 31716,30 centimetre
-31717,"90 cm (35.4"")"
+31717,90 centimetre
 31718,30.7 inch
 31719,6.49 inch
 31720,23 centimetre
@@ -6738,7 +6738,7 @@ index,prediction
 31736,2.7 inch
 31737,2.7 inch
 31738,31 centimetre
-31739,14inch (36cm)
+31739,14 inch
 31740,12 inch
 31741,12 centimetre
 31742,"19"""
@@ -6820,7 +6820,7 @@ index,prediction
 31818,25.4 centimetre
 31819,1.18 inch
 31820,2.41 inch
-31821,6 oz (184 g)
+31821,6 ounce
 31822,"1.6"""
 31823,"7.2"""
 31824,"15,5cm"
@@ -6854,7 +6854,7 @@ index,prediction
 31852,6 centimetre
 31853,3 ounce
 31854,15 centimetre
-31855,1.41 oz (40 g)
+31855,1.41 ounce
 31856,5 centimetre
 31857,13.3 centimetre
 31858,28.2 centimetre
@@ -6896,13 +6896,13 @@ index,prediction
 31894,180 centimetre
 31895,2 inch
 31896,4 inch
-31897,100mm (3.9in)
+31897,100 millimetre
 31898,12.3 centimetre
 31899,12.3 centimetre
 31900,12 volts
 31901,5 inch
 31902,5 inch
-31903,"19.29"" (49cm)"
+31903,"19.29"""
 31904,300 lb
 31905,8 centimetre
 31906,8 centimetre
@@ -6926,7 +6926,7 @@ index,prediction
 31924,220 millimetre
 31925,100 millimetre
 31926,680 pounds
-31927,29cm (11.4inch)
+31927,29 centimetre
 31928,47 millimetre
 31929,47 millimetre
 31930,100 millimetre
@@ -7032,7 +7032,7 @@ index,prediction
 32030,7.5 centimetre
 32031,122 kilogram
 32032,9.8 centimetre
-32033,"1.57"" (40mm)"
+32033,"1.57"""
 32034,
 32035,7.6 centimetre
 32036,7.6 centimetre
@@ -7051,7 +7051,7 @@ index,prediction
 32049,57.5 centimetre
 32050,35 centimetre
 32051,35 centimetre
-32052,"11 cm (4.3"")"
+32052,11 centimetre
 32053,12.2 inch
 32054,12.2 inch
 32055,12.2 inch
@@ -7065,7 +7065,7 @@ index,prediction
 32063,190 millimetre
 32064,180 millimetre
 32065,29 centimetre
-32066,750 ml
+32066,750 millilitre
 32067,9.84 centimetre
 32068,5.99 centimetre
 32069,5.5 centimetre
@@ -7124,7 +7124,7 @@ index,prediction
 32122,3.2 centimetre
 32123,4.8 inch
 32124,4.8 inch
-32125,"140.00 mm (5.51"")"
+32125,140.00 millimetre
 32126,45 centimetre
 32127,22 centimetre
 32128,15.47 gram
@@ -7132,7 +7132,7 @@ index,prediction
 32130,5 centimetre
 32131,"12"""
 32132,"12"""
-32133,4 oz (113 g)
+32133,4 ounce
 32134,175 millimetre
 32135,80 millimetre
 32136,"6,8 centimetre"
@@ -7178,7 +7178,7 @@ index,prediction
 32176,4.5 centimetre
 32177,4980 watts
 32178,"16.5"""
-32179,0.9 inch (23cm)
+32179,0.9 inch
 32180,0.9 inch
 32181,1.97 inch
 32182,1.97 inch
@@ -7206,7 +7206,7 @@ index,prediction
 32204,36 centimetre
 32205,36 centimetre
 32206,36 centimetre
-32207,400 ml
+32207,400 millilitre
 32208,64 mm 128 mm 950 millimetre
 32209,4.3 inch
 32210,1070 millimetre
@@ -7236,19 +7236,19 @@ index,prediction
 32234,16.5 centimetre
 32235,21.7 centimetre
 32236,30 centimetre
-32237,"45 cm(17.7"") 30 cm(11.8"" ) 61 cm(24.0"")"
+32237,45 centimetre
 32238,12 centimetre
 32239,1200 mg
 32240,0 centimetre
 32241,2 centimetre
 32242,230 centimetre
-32243,6.6 ft
-32244,6.6 ft
+32243,6.6 feet
+32244,6.6 feet
 32245,65 millimetre
 32246,115 volts
 32247,1150 gram
 32248,120 centimetre
-32249,"76 cm(29.9"")"
+32249,76 centimetre
 32250,50 pounds
 32251,50 pounds
 32252,100 millimetre
@@ -7307,7 +7307,7 @@ index,prediction
 32305,8 centimetre
 32306,12.4 inch
 32307,3.9 inch
-32308,1.3 in (3.3 cm)
+32308,1.3 inch
 32309,9 centimetre
 32310,2.5 centimetre
 32311,
@@ -7496,8 +7496,8 @@ index,prediction
 32494,36 centimetre
 32495,10.31 inch
 32496,13.1 centimetre
-32497,3 ft
-32498,3 ft
+32497,3 feet
+32498,3 feet
 32499,23.8 pounds
 32500,119.4 centimetre
 32501,10 centimetre
@@ -7557,7 +7557,7 @@ index,prediction
 32555,7 centimetre
 32556,
 32557,33.5 centimetre
-32558,"76 cm(30.3"")"
+32558,76 centimetre
 32559,100 centimetre
 32560,0.59 kilograms
 32561,34 centimetre
@@ -7605,7 +7605,7 @@ index,prediction
 32603,8 centimetre
 32604,6.5 centimetre
 32605,30 centimetre
-32606,"75 cm(29.5"")"
+32606,75 centimetre
 32607,81 centimetre
 32608,1.0 pounds
 32609,1.85 volt
@@ -7695,7 +7695,7 @@ index,prediction
 32693,18 volts
 32694,30 cm 31.6 centimetre
 32695,16.5 centimetre
-32696,675 ml
+32696,675 millilitre
 32697,3200 mah
 32698,3.8inch 10cm
 32699,19 centimetre
