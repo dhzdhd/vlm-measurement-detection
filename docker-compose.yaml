@@ -1,8 +1,7 @@
 services:
   mlflow:
     container_name: mlflow
-    image: bitnami/mlflow:latest
-    entrypoint: "mlflow"
-    command: "ui"
+    image: ghcr.io/mlflow/mlflow:v2.16.1
+    command: mlflow server --port 5000 --host 0.0.0.0
     ports:
       - 5000:5000
